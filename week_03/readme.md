@@ -16,5 +16,7 @@ In today's session we will cover the following topics.
 - Conditionally add class names with the **clsx utility package**.
 - Nested layout
 - Route Groups
-- Dynamic Routes
-- Generating Static Params
+
+  ## Will be discuss in Next Class
+- ~~Dynamic Routes~~
+- ~~Generating Static Params~~
