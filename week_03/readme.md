@@ -15,6 +15,8 @@ In today's session we will cover the following topics.
 
 - Conditionally add class names with the **clsx utility package**.
 - Nested layout
+
+  ### Check the repo week_03_b
 - Route Groups
 
   ## Will be discuss in Next Class
