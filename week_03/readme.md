@@ -15,6 +15,11 @@ In today's session we will cover the following topics.
 
 - Conditionally add class names with the **clsx utility package**.
 - Nested layout
+
+  ### Check the repo week_03_b
+  [Click here to check route groups repo](https://github.com/mkdeveloper/Peshawar_Batch_49_Q2/tree/main/week_03_b)
 - Route Groups
-- Dynamic Routes
-- Generating Static Params
+
+  ## Will be discuss in Next Class
+- ~~Dynamic Routes~~
+- ~~Generating Static Params~~
