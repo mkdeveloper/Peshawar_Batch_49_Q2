@@ -9,7 +9,9 @@
   npm install -g vercel
   ```
 
-- Deployed Site to vercel. - To deploy site to vercel run command in terminal
+- Deployed Site to vercel.
+
+- To deploy site to vercel run command in terminal
   ```bash
   vercel
   ```
@@ -27,7 +29,9 @@
   > > ○ Continue with SAML Single Sign-On
   > > ─────────────────────────────────
   > > ○ Cancel
-  > > ` - Now follow the following steps.
+  > >
+
+  - Now follow the following steps.
 
   ? Set up and deploy “~/web/my-lovely-project”? [Y/n] y
   ? Which scope do you want to deploy to?
