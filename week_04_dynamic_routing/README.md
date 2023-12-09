@@ -29,7 +29,6 @@
   > > ○ Continue with SAML Single Sign-On
   > > ─────────────────────────────────
   > > ○ Cancel
-  > >
 
   - Now follow the following steps.
 
@@ -39,13 +38,13 @@
   ? Link to existing project? [y/N] n
   ? What’s your project’s name? (week-04-dynamic-routing)
   ? In which directory is your code located? ./
-      Local settings detected in vercel.json:
-      Auto-detected Project Settings (Next.js):
-      - Build Command: next build
-      - Development Command: next dev --port $PORT
-      - Install Command: `yarn install`, `pnpm install`, `npm install`, or `bun install`
-      - Output Directory: Next.js default
-      ? Want to modify these settings? [y/N] n
+  Local settings detected in vercel.json:
+  Auto-detected Project Settings (Next.js):
+  - Build Command: next build
+  - Development Command: next dev --port $PORT
+  - Install Command: `yarn install`, `pnpm install`, `npm install`, or `bun install`
+  - Output Directory: Next.js default
+  ? Want to modify these settings? [y/N] n
   ```
 
   Great, you have deployed you first application at vercel.
