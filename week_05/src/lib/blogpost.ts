@@ -10,7 +10,9 @@ export type FetchedDataTypes = {
 
 export const FetchedData = async () => {
   const res = await fetch(`https://657c2c0b853beeefdb98d176.mockapi.io/posts`, {
-    next: { revalidate: 120 },
+    // cache: "no-store"
+    //   next: { revalidate: 120 },
+    cache: "force-cache", // default One
   });
 
   const blog: FetchedDataTypes[] = await res.json();
