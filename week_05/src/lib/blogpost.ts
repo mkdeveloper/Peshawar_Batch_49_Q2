@@ -1,4 +1,4 @@
-type FetchedDataTypes = {
+export type FetchedDataTypes = {
   id: string;
   slug: string;
   avatar: string;
@@ -9,7 +9,9 @@ type FetchedDataTypes = {
 };
 
 export const FetchedData = async () => {
-  const res = await fetch(`https://657c2c0b853beeefdb98d176.mockapi.io/posts`);
+  const res = await fetch(`https://657c2c0b853beeefdb98d176.mockapi.io/posts`, {
+    next: { revalidate: 120 },
+  });
 
   const blog: FetchedDataTypes[] = await res.json();
 

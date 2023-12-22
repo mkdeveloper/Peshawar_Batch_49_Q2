@@ -1,4 +1,4 @@
-# Data Fetching, Caching, and Revalidating
+`# Data Fetching, Caching, and Revalidating
 
 **Data Fetching:** This is the process of retrieving data from a source, typically a server or a database. In the context of web development, data fetching often refers to making HTTP requests to an API.
 
@@ -13,12 +13,12 @@ These three processes are crucial in managing data efficiently in web applicatio
 In today's session, we covered and practiced the following topics:
 
 - Fetching Data on the Server with **FETCH**
-- ~Caching Data~
-- ~Revalidating Data~
-  - ~Time-based revalidation~
+- Caching Data
+- Revalidating Data
+  - Time-based revalidation
   - ~On-demand revalidation~
-- ~Opting out of Data Caching~
-- ~Individual **fetch** Requests~
+- Opting out of Data Caching
+- Individual **fetch** Requests
 - ~Multiple **fetch** Requests~
 
 ## Important Links
