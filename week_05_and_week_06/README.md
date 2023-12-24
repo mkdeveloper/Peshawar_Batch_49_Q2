@@ -28,3 +28,4 @@ In today's session, we covered and practiced the following topics:
 3. [Check out the Route Segment Config](https://nextjs.org/docs/app/api-reference/file-conventions/route-segment-config)
 
 **Note**: The ~line~ through topics will be discussed in next Class. Before Next class kindly cover up last weeks course.
+<!-- Updating Readme to change folder name with it -->
